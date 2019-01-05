@@ -4,17 +4,24 @@
 
 ## 参考网站
 
--  https://stylus.bootcss.com/
--  https://www.zhangxinxu.com/jq/stylus/
+- [github](https://github.com/stylus/stylus/)
+- [stylus.bootcss.com](https://stylus.bootcss.com/)
+- [www.zhangxinxu.com](https://www.zhangxinxu.com/jq/stylus/)
 
 ### 工具库
 
-- https://github.com/ecomfe/rider
+- [rider](https://github.com/ecomfe/rider)
 
 ## 安装方式
 
 ```bash
-npm install stylus
+npm install stylus -g
+```
+
+### 使用
+
+```bash
+stylus -w style.styl -o style.css
 ```
 
 ## 特征

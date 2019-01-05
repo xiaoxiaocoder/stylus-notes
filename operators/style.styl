@@ -1,0 +1,34 @@
+// !0
+
+// !!0
+
+// !1
+
+// !!5px
+
+// !!-5px
+
+// -5px
+
+// --5px
+
+// not true
+
+// not not true
+
+add(a, b)
+  if(a is a 'unit' and b is a 'unit')
+    a + b
+  else
+    (error 'a和b必须是units!')
+
+body
+  padding(1, 5)
+
+// if (val = add(1,'5'))[0] == error
+//   error(val[1])
+
+body
+  n = 5
+  // foo: (n)em
+  foo: unit(n + 5, '%')
