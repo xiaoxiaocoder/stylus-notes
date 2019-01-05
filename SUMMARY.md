@@ -6,3 +6,5 @@
 * [变量(Variables)](variables/README.md)
 * [插值(Interpolation)](interpolation/README.md)
 * [操作符(Operators)](operators/README.md)
+* [混合书写(Mixins)](mixins/README.md)
+* [方法(Functions)](functions/README.md)
