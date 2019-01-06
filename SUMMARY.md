@@ -8,3 +8,5 @@
 * [操作符(Operators)](operators/README.md)
 * [混合书写(Mixins)](mixins/README.md)
 * [方法(Functions)](functions/README.md)
+* [关键字参数(Keyword Arguments)](kwargs/README.md)
+* [内置方法(Built-in Function)](bifs/README.md)
