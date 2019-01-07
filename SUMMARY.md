@@ -10,3 +10,6 @@
 * [方法(Functions)](functions/README.md)
 * [关键字参数(Keyword Arguments)](kwargs/README.md)
 * [内置方法(Built-in Function)](bifs/README.md)
+* [其余参数(Rest Params)](args/README.md)
+* [注释(Comments)](comments/README.md)
+* [条件](conditionals/README.md)
