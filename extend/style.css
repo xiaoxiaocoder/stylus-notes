@@ -1,0 +1,9 @@
+form button[type=text],
+textarea {
+  padding: 10px;
+  color: #ddd;
+  border: 1px solid #eee;
+}
+textarea {
+  padding: 1px;
+}
